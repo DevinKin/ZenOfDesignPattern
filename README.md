@@ -2,3 +2,5 @@
 
 ## [第一章-单一职责原则](./note/chapter1.md)
 
+## [第二章-里氏替换原则](./note/chapter2.md)
+
